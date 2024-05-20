@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Nisala Dulanaka
 
 🔭 I’m currently working on ... MedicaLink - A personalized Online medical records system for Sri Lanka
+
 🌱 I’m currently learning ... The Mern Stack, Flutter, Graph QL
 <!--
 **NisalaDulanaka/NisalaDulanaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
