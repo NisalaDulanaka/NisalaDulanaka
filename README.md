@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Nisala Dulanaka
 
-🔭 I’m currently working on : MedicaLink - A personalized Online medical records system for Sri Lanka
+🔭 I’m currently working on : MedicaLink - A personalized Online medical records system for managing health care information of Sri Lankan patients.
 
 🌱 I’m currently learning : The Mern Stack, Flutter, Graph QL
 <!--
