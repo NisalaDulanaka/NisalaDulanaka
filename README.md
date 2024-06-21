@@ -2,6 +2,7 @@
   <img src="./header.png" width="100%">
 </div>
 
+
 🔭 I’m currently working on : MedicaLink - A centralized Online medical records storage system for managing health care information of Sri Lankan patients. A cross-platform application built with react, react native and ASP.NET
 
 🌱 I’m currently learning : The Mern Stack, ASP.NET, React Native
