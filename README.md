@@ -1,4 +1,7 @@
+![Header](./[Your header image])
 ### Hi there 👋 I'm Nisala Dulanaka
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NisalaDulanaka&hide=contribs,prs)
 
 🔭 I’m currently working on : MedicaLink - A personalized Online medical records system for managing health care information of Sri Lankan patients.
 
