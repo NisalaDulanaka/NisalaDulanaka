@@ -1,5 +1,8 @@
-![Header](./[Your header image])
-### Hi there 👋 I'm Nisala Dulanaka
+<link rel="stylesheet" href="./styles.css">
+<div>
+  <img src="./header.png" width="100%">
+</div>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NisalaDulanaka&hide=contribs,prs)
 
