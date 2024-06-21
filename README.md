@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on : MedicaLink - A personalized Online medical records system for managing health care information of Sri Lankan patients.
 
-🌱 I’m currently learning : The Mern Stack, Flutter, Graph QL
+🌱 I’m currently learning : The Mern Stack, ASP.NET, Graph QL
 <!--
 **NisalaDulanaka/NisalaDulanaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
